@@ -1,4 +1,4 @@
-public class q2 extends Thread
+public class ques2 extends Thread
 {
     static int maxDiv = 0, num = 0;
     int start;

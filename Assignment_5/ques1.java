@@ -1,4 +1,4 @@
-public class q1 extends Thread
+public class ques1 extends Thread
 	{
 	    public static void main(String[] args)
 	    {
